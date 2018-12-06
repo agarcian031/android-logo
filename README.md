@@ -1,6 +1,8 @@
-Android Logo 
+<h1> Android Logo </h1> 
 
-The Odin Project | Web Development 101 | HTML and CSS Basics 
+<strong> The Odin Project | Web Development 101 | HTML and CSS Basics </strong>  
+<br/> 
 https://www.theodinproject.com/courses/web-development-101
+<br/> 
 Task: 
 Build the Android Logo. 
