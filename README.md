@@ -1,5 +1,7 @@
 <h1> Android Logo </h1> 
 
+# Preview [HERE](https://agarcian031.github.io/android-logo/)
+
 <strong> The Odin Project | Web Development 101 | HTML and CSS Basics </strong>  
 <br/> 
 https://www.theodinproject.com/courses/web-development-101
